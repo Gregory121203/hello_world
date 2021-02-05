@@ -1,2 +1,2 @@
 # hello_world
-Greg Master l'aggriculteur
+Greg Master l'agriculteur
